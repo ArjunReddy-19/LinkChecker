@@ -6,8 +6,9 @@ Includes README, license, tests, and GitHub Actions CI.
 
 **Repository structure**
  linkchecker-cli/
+ 
   ├─ linkchecker.py
-   ├─ README.md
+  ├─ README.md
    ├─ LICENSE
    ├─ .gitignore
    ├─ requirements-dev.txt
