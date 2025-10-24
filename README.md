@@ -5,14 +5,14 @@ No external dependencies (standard library only).
 Includes README, license, tests, and GitHub Actions CI.
 
 **Repository structure**
-linkchecker-cli/
-├─ linkchecker.py
-├─ README.md
-├─ LICENSE
-├─ .gitignore
-├─ requirements-dev.txt
-├─ tests/
-│  └─ test_linkchecker.py
-└─ .github/
-   └─ workflows/
-      └─ ci.yml
+ linkchecker-cli/
+  ├─ linkchecker.py
+   ├─ README.md
+   ├─ LICENSE
+   ├─ .gitignore
+   ├─ requirements-dev.txt
+   ├─ tests/
+   │  └─ test_linkchecker.py
+   └─ .github/
+      └─ workflows/
+         └─ ci.yml
