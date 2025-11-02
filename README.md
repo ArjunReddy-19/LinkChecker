@@ -5,8 +5,8 @@ No external dependencies (standard library only).
 Includes README, license, tests, and GitHub Actions CI.
 
 **Repository structure**
- 
-linkchecker/
+ linkchecker/
+
 ├── linkchecker.py          # Main module
 
 ├── README.md              # Project documentation
