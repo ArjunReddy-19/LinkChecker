@@ -9,11 +9,11 @@ Includes README, license, tests, and GitHub Actions CI.
  
   ├─ linkchecker.py
   ├─ README.md
-   ├─ LICENSE
-   ├─ .gitignore
-   ├─ requirements-dev.txt
-   ├─ tests/
-   │  └─ test_linkchecker.py
-   └─ .github/
-      └─ workflows/
-         └─ ci.yml
+  ├─ LICENSE
+  ├─ .gitignore
+  ├─ requirements-dev.txt
+  ├─ tests/
+  │  └─ test_linkchecker.py
+  └─ .github/
+     └─ workflows/
+        └─ ci.yml
